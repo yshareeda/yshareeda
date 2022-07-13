@@ -8,6 +8,4 @@
 - 📫 How to reach me: Check social link below.
 - ⚡ Fun fact: I spend almost 6 hours on my computer every day.
 
-**=============================================**
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yshareeda&theme=radical)
