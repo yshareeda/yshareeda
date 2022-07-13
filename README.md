@@ -10,5 +10,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yshareeda&theme=radical)
 
-## Snake eating my contribution graph
+## Snake eating my contribution graph!
 ![snake gif](https://github.com/yshareeda/yshareeda/blob/output/github-contribution-grid-snake.gif)
