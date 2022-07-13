@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with C++
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social link below.
-- ⚡ Fun fact: I spend almost 6 hours on my computer every day.
+- ⚡ Fun fact: I spend almost 5 hours or more on my computer every day.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yshareeda&theme=radical)
