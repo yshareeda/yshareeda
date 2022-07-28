@@ -11,4 +11,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yshareeda&theme=radical)
 
 ## Snake eating my contribution graph!
-![snake gif](https://github.com/yshareeda/yshareeda/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/yshareeda/yshareeda/blob/output/github-contribution-grid-snake.gif) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yousif.bh&cover_image=true&theme=default&bar_color_cover=true&bar_color=ffffff)](https://spotify-github-profile.vercel.app/api/view?uid=yousif.bh&redirect=true)
