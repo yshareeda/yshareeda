@@ -9,6 +9,3 @@
 - ⚡ Fun fact: I spend almost 5 hours or more on my computer every day.
 <img src="https://github-readme-stats.vercel.app/api?username=yshareeda&show_icons=true&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yshareeda&layout=compact" />
-## Snake eating my contribution graph!
-![snake gif](https://github.com/yshareeda/yshareeda/blob/output/github-contribution-grid-snake.gif)
-
