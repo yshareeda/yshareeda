@@ -1,5 +1,4 @@
-<h1 align="center">About Me :</h1>
-<h3 align="center">Open University</h3>
+<h1 align="center">💫 About Me :</h1>
 
 - 😄 Pronouns: He/His
 - 🔭 I’m currently working on Java, JavaScript, Python, C#.
