@@ -7,6 +7,7 @@
 - 🤔 I’m looking for help with C++
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social link below.
+- :closed_book:
 - ⚡ Fun fact: I spend almost 5 hours or more on my computer every day.
 
 <h3 align="left">Connect with me:</h3>
