@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**OU-Yousef/OU-Yousef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me :
+- 😄 Pronouns: He/His
+- 🔭 I’m currently working on Java, JavaScript, Python.
+- 🌱 I’m currently learning new things everyday.
+- 👯 I’m looking to collaborate on Discord business.
+- 🤔 I’m looking for help with C++
+- 💬 Ask me about Flutter or any tech-related stuff.
+- 📫 How to reach me: Check social link below.
+- ⚡ Fun fact: I spend almost 5 hours or more on my computer every day.
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=yshareeda&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yshareeda&layout=compact" />
