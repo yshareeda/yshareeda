@@ -1,7 +1,7 @@
 <h1 align="center">💫 About Me :</h1>
 
 - 😄 Pronouns: He/His
-- - :closed_book: My studies: Computer science in **[Open University](https://www.open.ac.uk/)**.
+- :closed_book: My studies: Computer science in **[Open University](https://www.open.ac.uk/)**.
 - 🔭 I’m currently working on Java, JavaScript, Python, C#.
 - 🌱 I’m currently learning new things everyday.
 - 👯 I’m looking to collaborate on Discord business.
