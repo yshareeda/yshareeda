@@ -16,6 +16,6 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=OU-Yousef&show_icons=true&theme=radical" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OU-Youseflayout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OU-Yousef&layout=compact" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ou-yousef&" alt="ou-yousef" /></p>
