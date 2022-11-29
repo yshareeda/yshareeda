@@ -9,7 +9,7 @@
 - 📫 How to reach me: Check social link below.
 - ⚡ Fun fact: I spend almost 3 hours or more on my computer every day.
 
-<h3 align="left">Contact with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://instagram.com/yshareeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yshareeda" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/CNBk2uvJeV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/CNBk2uvJeV" height="30" width="40" /></a>
