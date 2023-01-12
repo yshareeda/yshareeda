@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Discord business.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social link below.
-- ⚡ Fun fact: I spend almost 3 hours or more on my computer every day.
+- ⚡ Fun fact: I spend almost 3 hours or more on my computer everyday.
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
