@@ -1,6 +1,6 @@
 <h1 align="center">💫 About Me :</h1>
 
-- 😄 Pronouns: He/His from Bahrain 🇧🇭 and live in the UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+- 😄 Pronouns: He/His
 - :closed_book: My studies: Computer science in **[Open University](https://www.open.ac.uk/)**.
 - 🔭 I’m currently working on Java, JavaScript, Python, C#.
 - 🌱 I’m currently learning new things everyday.
