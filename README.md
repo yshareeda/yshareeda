@@ -4,7 +4,7 @@
 - :closed_book: My studies: Computer science in **[Open University](https://www.open.ac.uk/)**.
 - 🔭 I’m currently working on Java, JavaScript, Python, C#.
 - 🌱 I’m currently learning new things everyday.
-- 👯 I’m looking to collaborate on Discord business.
+- 👯 I’m looking to collaborate on IT business.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social link below.
 - ⚡ Fun fact: I spend almost 3 hours or more on my computer everyday.
