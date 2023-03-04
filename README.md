@@ -2,7 +2,7 @@
 - 😄 Pronouns: He/His
 - 🔭 I’m currently working on C#, Java, JavaScript, Python.
 - 🌱 I’m currently learning new things everyday.
-- 👯 I’m looking to collaborate on Discord business.
+- 👯 I’m looking to collaborate on C++.
 - 🤔 I’m looking for help with Twitch designs.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social link below.
