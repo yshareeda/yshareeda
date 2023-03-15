@@ -1,4 +1,4 @@
-<img align="left" ![logo](https://user-images.githubusercontent.com/94241554/225462034-97481c58-a2d3-4921-9470-2ac780d1abc7.png)>
+< ![logo](https://user-images.githubusercontent.com/94241554/225462034-97481c58-a2d3-4921-9470-2ac780d1abc7.png)>
 
 
 ### Hey - Salam Alaikum!
