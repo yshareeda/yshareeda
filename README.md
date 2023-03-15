@@ -1,6 +1,9 @@
 <img align="left" src="assets/logo.png">
 
 ### Hey - Salam Alaikum!
+*'I'm a passionate [**Linux**](https://www.youtube.com/watch?v=jdUXfsMTv7o) and **open-source** enthusiast who loves writing `<code>`.*
+
+<br/><br/>
 
 ## 💫 About Me :
 - 😄 Pronouns: He/His
