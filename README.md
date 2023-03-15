@@ -1,3 +1,7 @@
+<img align="left" src="assets/logo.png">
+
+### Hey - Salam Alaikum!
+
 ## 💫 About Me :
 - 😄 Pronouns: He/His
 - 🔭 I’m currently working on C#, Java, JavaScript, Python.
