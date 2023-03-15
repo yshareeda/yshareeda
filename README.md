@@ -1,8 +1,5 @@
 ![logo](https://user-images.githubusercontent.com/94241554/225462034-97481c58-a2d3-4921-9470-2ac780d1abc7.png)
-### Hey - Salam Alaikum!
-
 <br/><br/>
-
 ## 💫 About Me :
 - 😄 Pronouns: He/His
 - 🔭 I’m currently working on C#, Java, JavaScript, Python.
