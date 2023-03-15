@@ -1,4 +1,5 @@
-<img align="left" src="[assets/logo.png](https://cdn.discordapp.com/attachments/908014409127964682/1085698165216387173/logo.png)">
+![logo](https://user-images.githubusercontent.com/94241554/225462034-97481c58-a2d3-4921-9470-2ac780d1abc7.png)
+
 
 ### Hey - Salam Alaikum!
 *'I'm a passionate [**Linux**](https://www.youtube.com/watch?v=jdUXfsMTv7o) and **open-source** enthusiast who loves writing `<code>`.*
