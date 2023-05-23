@@ -2,7 +2,7 @@
 <br/><br/>
 ## 💫 About Me :
 - 😄 Pronouns: He/His
-- :closed_book: My studies: Computer science in **[Open University](https://www.open.ac.uk/)**.
+- :closed_book: My studies: ITC in **[Open University](https://www.open.ac.uk/)**.
 - 🔭 I’m currently working on C#, Java, JavaScript, Python.
 - 🌱 I’m currently learning new things everyday.
 - 👯 I’m looking to collaborate on C++.
