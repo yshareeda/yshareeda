@@ -5,8 +5,8 @@
 - :closed_book: My studies: Information Technology and Cybersecurity **ITC** in **[Open University](https://www.open.ac.uk/)**.
 - 🔭 I’m currently working on C#, Java, JavaScript, Python.
 - 🌱 I’m currently learning new things everyday.
-- 👯 I’m looking to collaborate on C++.
-- 🤔 I’m looking for help with Twitch designs.
+- 👯 I’m looking to collaborate on Unity.
+- 🤔 I’m looking for help with 3D designs.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social link below.
 - ⚡ Fun fact: I spend almost 3 hours or more on my computer every day.
