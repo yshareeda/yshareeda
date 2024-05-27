@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: He/His
 - :closed_book: My studies: Computer science in **[Open University](https://www.open.ac.uk/)**.
-- 🔭 I’m currently working on Java, JavaScript, Python, C#.
+- 🔭 I’m currently working on Java, Nodejs, Python, C#.
 - 🌱 I’m currently learning new things everyday.
 - 👯 I’m looking to collaborate on IT business.
 - 💬 Ask me about Flutter or any tech-related stuff.
