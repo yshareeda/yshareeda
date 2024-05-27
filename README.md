@@ -33,5 +33,5 @@
 </div>
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=yshareeda&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yshareeda&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Logic0044&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logic0044&layout=compact" />
