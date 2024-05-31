@@ -1,8 +1,9 @@
 <h1 align="center">💫 About Me</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Profile Picture" width="200" height="200"/>
+  <img src="![wall](https://github.com/Logic0044/Logic0044/assets/94241554/d523ff56-540d-4f4b-a64a-e0d7f7a7ba24)" width="200" height="200"/>
 </p>
+
 
 - 😄 Pronouns: He/Him
 - 🎓 Currently pursuing a degree in Computer Science from **[Open University](https://www.open.ac.uk/)**.
