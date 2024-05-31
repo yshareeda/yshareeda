@@ -4,16 +4,15 @@
   <img src="https://github.com/Logic0044/Logic0044/assets/94241554/d523ff56-540d-4f4b-a64a-e0d7f7a7ba24" width="200" height="200"/>
 </p>
 
-<p align="center">
-  - 😄 Pronouns: He/Him <br>
-  - 🎓 Currently pursuing a degree in Computer Science from <a href="https://www.open.ac.uk/">Open University</a>.<br>
-  - 💼 Working with Java, Node.js, Python, and C#.<br>
-  - 🌱 Always on the path of learning and exploring new technologies.<br>
-  - 🤝 Open to collaboration on IT projects and innovative tech solutions.<br>
-  - 💬 Feel free to ask me anything about Flutter or other tech-related topics.<br>
-  - 📫 Reach out to me via the social links below.<br>
-  - ⚡ Fun fact: I spend at least 3 hours a day honing my skills on my computer.
-</p>
+
+- 😄 Pronouns: He/Him
+- 🎓 Currently pursuing a degree in Computer Science from **[Open University](https://www.open.ac.uk/)**.
+- 💼 Working with Java, Node.js, Python, and C#.
+- 🌱 Always on the path of learning and exploring new technologies.
+- 🤝 Open to collaboration on IT projects and innovative tech solutions.
+- 💬 Feel free to ask me anything about Flutter or other tech-related topics.
+- 📫 Reach out to me via the social links below.
+- ⚡ Fun fact: I spend at least 3 hours a day honing my skills on my computer.
 
 <h3 align="left">Contact Me</h3>
 <p align="left">
