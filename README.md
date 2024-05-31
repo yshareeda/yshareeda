@@ -1,4 +1,4 @@
-<h1 align="center">About Me</h1>
+<h1 align="center">💫 About Me</h1>
 
 <p align="center">
   <img src="https://github.com/Logic0044/Logic0044/assets/94241554/d523ff56-540d-4f4b-a64a-e0d7f7a7ba24" width="200" height="200"/>
