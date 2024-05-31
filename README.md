@@ -4,6 +4,7 @@
   <img src="https://github.com/Logic0044/Logic0044/assets/94241554/d523ff56-540d-4f4b-a64a-e0d7f7a7ba24" width="200" height="200"/>
 </p>
 
+
 - 😄 Pronouns: He/Him
 - 🎓 Currently pursuing a degree in Computer Science from **[Open University](https://www.open.ac.uk/)**.
 - 💼 Working with Java, Node.js, Python, and C#.
@@ -12,46 +13,6 @@
 - 💬 Feel free to ask me anything about Flutter or other tech-related topics.
 - 📫 Reach out to me via the social links below.
 - ⚡ Fun fact: I spend at least 3 hours a day honing my skills on my computer.
-
-<h3 align="left">My Projects</h3>
-<ul>
-  <li>
-    <strong><a href="https://github.com/Logic0044/Project1">Project 1</a></strong> - A web application built with React and Node.js.
-  </li>
-  <li>
-    <strong><a href="https://github.com/Logic0044/Project2">Project 2</a></strong> - A mobile app developed using Flutter.
-  </li>
-  <li>
-    <strong><a href="https://github.com/Logic0044/Project3">Project 3</a></strong> - A machine learning project implemented in Python.
-  </li>
-</ul>
-
-<h3 align="left">Blogs and Articles</h3>
-<ul>
-  <li>
-    <strong><a href="https://medium.com/@Logic0044/my-article">Understanding JavaScript Promises</a></strong>
-  </li>
-  <li>
-    <strong><a href="https://dev.to/Logic0044/my-article">A Guide to Responsive Web Design</a></strong>
-  </li>
-</ul>
-
-<h3 align="left">Certifications</h3>
-<ul>
-  <li>
-    <strong>Google IT Support Professional Certificate</strong> - Coursera
-  </li>
-  <li>
-    <strong>Certified Java Developer</strong> - Oracle
-  </li>
-</ul>
-
-<h3 align="left">Future Goals</h3>
-<ul>
-  <li>Learn and master Kubernetes and Docker for containerization.</li>
-  <li>Contribute to open-source projects on GitHub.</li>
-  <li>Expand knowledge in AI and Machine Learning.</li>
-</ul>
 
 <h3 align="left">Contact Me</h3>
 <p align="left">
