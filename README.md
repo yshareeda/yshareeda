@@ -6,8 +6,8 @@
 
 
 - 😄 Pronouns: He/Him
-- 🎓 Currently pursuing a degree in Computer Science from **[Open University](https://www.open.ac.uk/)**.
-- 💼 Working with Java, Node.js, Python, and C#.
+- 🎓 Graduated from **[Arab Open University]([https://www.open.ac.uk/](https://www.aou.org.bh/Pages/default.aspx))**.
+- 💼 Working with C#, Node.js, TypeScript, Nextjs, HTML, CSS.
 - 🌱 Always on the path of learning and exploring new technologies.
 - 🤝 Open to collaboration on IT projects and innovative tech solutions.
 - 💬 Feel free to ask me anything about Flutter or other tech-related topics.
@@ -19,10 +19,6 @@
   <a href="https://instagram.com/yshareeda" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/gQR9HvkB9u" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
 
 <h3 align="left">Website Languages</h3>
 <p align="left">
