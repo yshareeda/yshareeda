@@ -1,7 +1,7 @@
 <h1 align="center">💫 About Me</h1>
 
 <p align="center">
-  <img src="[https://github.com/yshareeda/assets/94241554/d523ff56-540d-4f4b-a64a-e0d7f7a7ba24](https://tenor.com/n3kbgzADEaA.gif)" width="200" height="200"/>
+  <img src="[https://github.com/yshareeda/assets/94241554/d523ff56-540d-4f4b-a64a-e0d7f7a7ba24](https://tenor.com/n3kbgzADEaA.gif](https://media1.tenor.com/m/V_z072YdErsAAAAC/rat-cry-mouse-cutie.gif)" width="200" height="200"/>
 </p>
 
 
