@@ -1,7 +1,7 @@
 <h1 align="center">💫 About Me</h1>
 
 <p align="center">
-  <img src="[https://cdn.discordapp.com/attachments/1038163385847644160/1430069873387507722/tenor.gif?ex=68f86fdb&is=68f71e5b&hm=59452ae57179565f5202145e94d831853222687b2967e44f78e62e4c31450f5c&)" width="200" height="200"/>
+  <img src="https://cdn.discordapp.com/attachments/1038163385847644160/1430069873387507722/tenor.gif?ex=68f86fdb&is=68f71e5b&hm=59452ae57179565f5202145e94d831853222687b2967e44f78e62e4c31450f5c" width="200" height="200" />
 </p>
 
 
