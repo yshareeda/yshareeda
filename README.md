@@ -10,6 +10,6 @@
 - 💼 Working with C#, Node.js, TypeScript, Nextjs, HTML, CSS.
 - 🌱 Always on the path of learning and exploring new technologies.
 - 🤝 Open to collaboration on IT projects and innovative tech solutions.
-- 💬 Feel free to ask me anything about Flutter or other tech-related topics.
+- 💬 Feel free to ask me anything about programming or other tech-related topics.
 - 📫 Reach out to me via the social links below.
 - ⚡ Fun fact: I spend at least 3 hours a day honing my skills on my computer.
